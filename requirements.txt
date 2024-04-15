@@ -1,0 +1,6 @@
+numpy
+streamlit
+scikit-learn
+tensorflow==2.7.0
+joblib
+matplotlib
